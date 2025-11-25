@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "Alexa",
+  "wake_word": "Maestro",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "./alexa.tflite",
+  "model": "./maestro.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.66,
